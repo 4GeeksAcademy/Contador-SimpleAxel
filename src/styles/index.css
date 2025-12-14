@@ -9,3 +9,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    height: 100vh;
+    width: 100%;
+}
